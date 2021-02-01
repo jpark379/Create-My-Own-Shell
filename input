@@ -1,0 +1,3 @@
+pwd
+ls
+date +%Y%m%d
